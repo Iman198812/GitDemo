@@ -20,7 +20,7 @@ public class StudentList {
         
         //int a;
         //int[] a1=new int[5];//integer array of size 5
-        Student[] sList=new Student[4];//student array of size 4
+        Student[] sList=new Student[3];//student array of size 4
         
         Scanner sc=new Scanner(System.in);
         
@@ -43,3 +43,4 @@ public class StudentList {
     }
 
 }
+
