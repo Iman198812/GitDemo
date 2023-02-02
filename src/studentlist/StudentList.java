@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Iman Alghanimi
+ * @author Iman Alghanimi  2023
  */
 public class StudentList {
 
